@@ -7,12 +7,10 @@
  */
 
 import React from 'react';
-import Example from './component/Example'
+import Example from './component/Example';
 
-const App = () => { 
-  return (
-   <Example/>
-  );
+const App = () => {
+  return <Example />;
 };
 
 export default App;
