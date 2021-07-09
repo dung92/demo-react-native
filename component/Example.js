@@ -12,7 +12,6 @@ import {
 } from 'native-base';
 import {useForm, Controller} from 'react-hook-form';
 import DatePicker from 'react-native-date-picker';
-import {format} from 'date-fns';
 const Example = () => {
   const {
     control,
